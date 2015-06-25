@@ -1,0 +1,1 @@
+/home/jorgega/Programming/agoratable/release/src/CMakeFiles/testAppRelease.dir

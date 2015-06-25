@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<bgnodes>
+	<MainNode id="1">
+		<posx>110</posx><posy>70</posy>
+		<posxu1>530</posxu1><posyu1>20</posyu1>
+		<posxu2>55</posxu2><posyu2>40</posyu2>
+		<posxbu>430</posxbu><posybu>20</posybu>
+	</MainNode>
+	<MainNode id="2">
+		<posx>245</posx><posy>190</posy>
+		<posxu1>640</posxu1><posyu1>170</posyu1>
+		<posxu2>130</posxu2><posyu2>185</posyu2>
+		<posxbu>455</posxbu><posybu>155</posybu>
+	</MainNode>
+	<MainNode id="3">
+		<posx>410</posx><posy>40</posy>
+		<posxu1>810</posxu1><posyu1>30</posyu1>
+		<posxu2>245</posxu2><posyu2>40</posyu2>
+		<posxbu>620</posxbu><posybu>30</posybu>
+	</MainNode>
+	<MainNode id="4">
+		<posx>630</posx><posy>195</posy>
+		<posxu1>945</posxu1><posyu1>165</posyu1>
+		<posxu2>350</posxu2><posyu2>220</posyu2>
+		<posxbu>665</posxbu><posybu>160</posybu>
+	</MainNode>
+	<MainNode id="5">
+		<posx>825</posx><posy>35</posy>
+		<posxu1>1085</posxu1><posyu1>25</posyu1>
+		<posxu2>420</posxu2><posyu2>55</posyu2>
+		<posxbu>795</posxbu><posybu>25</posybu>
+	</MainNode>
+	<MainNode id="6">
+		<posx>1000</posx><posy>210</posy>
+		<posxu1>1260</posxu1><posyu1>155</posyu1>
+		<posxu2>550</posxu2><posyu2>215</posyu2>
+		<posxbu>895</posxbu><posybu>165</posybu>
+	</MainNode>
+	<MainNode id="7">
+		<posx>1190</posx><posy>40</posy>
+		<posxu1>1405</posxu1><posyu1>35</posyu1>
+		<posxu2>605</posxu2><posyu2>40</posyu2>
+		<posxbu>1015</posxbu><posybu>30</posybu>
+	</MainNode>
+	<MainNode id="8">
+		<posx>1360</posx><posy>190</posy>
+		<posxu1>1575</posxu1><posyu1>155</posyu1>
+		<posxu2>720</posxu2><posyu2>215</posyu2>
+		<posxbu>1095</posxbu><posybu>165</posybu>
+	</MainNode>
+	<MainNode id="9">
+		<posx>1615</posx><posy>40</posy>
+		<posxu1>1715</posxu1><posyu1>35</posyu1>
+		<posxu2>795</posxu2><posyu2>55</posyu2>
+		<posxbu>1235</posxbu><posybu>40</posybu>
+	</MainNode>
+	<MainNode id="10">
+		<posx>1715</posx><posy>195</posy>
+		<posxu1>1770</posxu1><posyu1>165</posyu1>
+		<posxu2>915</posxu2><posyu2>190</posyu2>
+		<posxbu>1270</posxbu><posybu>170</posybu>
+	</MainNode>
+	
+	<MainNode id="11">
+		<posx>110</posx><posy>310</posy>
+		<posxu1>725</posxu1><posyu1>310</posyu1>
+		<posxu2>55</posxu2><posyu2>310</posyu2>
+		<posxbu>475</posxbu><posybu>265</posybu>
+	</MainNode>
+	<MainNode id="12">
+		<posx>245</posx><posy>470</posy>
+		<posxu1>810</posxu1><posyu1>450</posyu1>
+		<posxu2>130</posxu2><posyu2>475</posyu2>
+		<posxbu>550</posxbu><posybu>395</posybu>
+	</MainNode>
+	<MainNode id="13">
+		<posx>435</posx><posy>320</posy>
+		<posxu1>955</posxu1><posyu1>310</posyu1>
+		<posxu2>250</posxu2><posyu2>320</posyu2>
+		<posxbu>665</posxbu><posybu>280</posybu>
+	</MainNode>
+	<MainNode id="14">
+		<posx>605</posx><posy>485</posy>
+		<posxu1>1090</posxu1><posyu1>430</posyu1>
+		<posxu2>370</posxu2><posyu2>475</posyu2>
+		<posxbu>740</posxbu><posybu>420</posybu>
+	</MainNode>
+	<MainNode id="15">
+		<posx>765</posx><posy>320</posy>
+		<posxu1>1180</posxu1><posyu1>270</posyu1>
+		<posxu2>485</posxu2><posyu2>330</posyu2>
+		<posxbu>835</posxbu><posybu>275</posybu>
+	</MainNode>
+	<MainNode id="16">
+		<posx>995</posx><posy>470</posy>
+		<posxu1>1305</posxu1><posyu1>430</posyu1>
+		<posxu2>605</posxu2><posyu2>480</posyu2>
+		<posxbu>940</posxbu><posybu>410</posybu>
+	</MainNode>
+	<MainNode id="17">
+		<posx>1185</posx><posy>315</posy>
+		<posxu1>1410</posxu1><posyu1>285</posyu1>
+		<posxu2>750</posxu2><posyu2>330</posyu2>
+		<posxbu>1020</posxbu><posybu>265</posybu>
+	</MainNode>
+	<MainNode id="18">
+		<posx>1370</posx><posy>450</posy>
+		<posxu1>1525</posxu1><posyu1>430</posyu1>
+		<posxu2>845</posxu2><posyu2>515</posyu2>
+		<posxbu>1125</posxbu><posybu>410</posybu>
+	</MainNode>
+	<MainNode id="19">
+		<posx>1575</posx><posy>330</posy>
+		<posxu1>1675</posxu1><posyu1>300</posyu1>
+		<posxu2>955</posxu2><posyu2>335</posyu2>
+		<posxbu>1225</posxbu><posybu>280</posybu>
+	</MainNode>
+	
+	<MainNode id="20">
+		<posx>1755</posx><posy>525</posy>
+		<posxu1>1770</posxu1><posyu1>420</posyu1>
+		<posxu2>1020</posxu2><posyu2>495</posyu2>
+		<posxbu>1320</posxbu><posybu>395</posybu>
+	</MainNode>
+	<MainNode id="21">
+		<posx>75</posx><posy>585</posy>
+		<posxu1>850</posxu1><posyu1>590</posyu1>
+		<posxu2>55</posxu2><posyu2>600</posyu2>
+		<posxbu>530</posxbu><posybu>515</posybu>
+	</MainNode>
+	<MainNode id="22">
+		<posx>265</posx><posy>740</posy>
+		<posxu1>915</posxu1><posyu1>755</posyu1>
+		<posxu2>140</posxu2><posyu2>745</posyu2>
+		<posxbu>590</posxbu><posybu>680</posybu>
+	</MainNode>
+	<MainNode id="23">
+		<posx>405</posx><posy>600</posy>
+		<posxu1>1045</posxu1><posyu1>580</posyu1>
+		<posxu2>265</posxu2><posyu2>590</posyu2>
+		<posxbu>755</posxbu><posybu>540</posybu>
+	</MainNode>
+	<MainNode id="24">
+		<posx>650</posx><posy>740</posy>
+		<posxu1>1150</posxu1><posyu1>730</posyu1>
+		<posxu2>375</posxu2><posyu2>750</posyu2>
+		<posxbu>815</posxbu><posybu>655</posybu>
+	</MainNode>
+	<MainNode id="25">
+		<posx>820</posx><posy>585</posy>
+		<posxu1>1275</posxu1><posyu1>570</posyu1>
+		<posxu2>480</posxu2><posyu2>590</posyu2>
+		<posxbu>920</posxbu><posybu>540</posybu>
+	</MainNode>
+	<MainNode id="26">
+		<posx>1020</posx><posy>695</posy>
+		<posxu1>1400</posxu1><posyu1>710</posyu1>
+		<posxu2>580</posxu2><posyu2>745</posyu2>
+		<posxbu>955</posxbu><posybu>665</posybu>
+	</MainNode>
+	<MainNode id="27">
+		<posx>1165</posx><posy>565</posy>
+		<posxu1>1505</posxu1><posyu1>555</posyu1>
+		<posxu2>715</posxu2><posyu2>610</posyu2>
+		<posxbu>1110</posxbu><posybu>535</posybu>
+	</MainNode>
+	<MainNode id="28">
+		<posx>1345</posx><posy>720</posy>
+		<posxu1>1620</posxu1><posyu1>700</posyu1>
+		<posxu2>845</posxu2><posyu2>745</posyu2>
+		<posxbu>1170</posxbu><posybu>680</posybu>
+	</MainNode>
+	<MainNode id="29">
+		<posx>1555</posx><posy>600</posy>
+		<posxu1>1720</posxu1><posyu1>550</posyu1>
+		<posxu2>955</posxu2><posyu2>620</posyu2>
+		<posxbu>1280</posxbu><posybu>520</posybu>
+	</MainNode>
+	<MainNode id="30">
+		<posx>1735</posx><posy>740</posy>
+		<posxu1>1770</posxu1><posyu1>700</posyu1>
+		<posxu2>1105</posxu2><posyu2>720</posyu2>
+		<posxbu>1365</posxbu><posybu>660</posybu>
+	</MainNode>
+	<MainNode id="31">
+		<posx>80</posx><posy>880</posy>
+		<posxu1>980</posxu1><posyu1>890</posyu1>
+		<posxu2>65</posxu2><posyu2>870</posyu2>
+		<posxbu>575</posxbu><posybu>820</posybu>
+	</MainNode>
+	<MainNode id="32">
+		<posx>250</posx><posy>1005</posy>
+		<posxu1>1065</posxu1><posyu1>1010</posyu1>
+		<posxu2>225</posxu2><posyu2>995</posyu2>
+		<posxbu>640</posxbu><posybu>965</posybu>
+	</MainNode>
+	<MainNode id="33">
+		<posx>495</posx><posy>860</posy>
+		<posxu1>1160</posxu1><posyu1>870</posyu1>
+		<posxu2>350</posxu2><posyu2>860</posyu2>
+		<posxbu>740</posxbu><posybu>820</posybu>
+	</MainNode>
+	<MainNode id="34">
+		<posx>700</posx><posy>1005</posy>
+		<posxu1>1270</posxu1><posyu1>995</posyu1>
+		<posxu2>505</posxu2><posyu2>1010</posyu2>
+		<posxbu>835</posxbu><posybu>960</posybu>
+	</MainNode>
+	<MainNode id="35">
+		<posx>890</posx><posy>850</posy>
+		<posxu1>1370</posxu1><posyu1>840</posyu1>
+		<posxu2>670</posxu2><posyu2>840</posyu2>
+		<posxbu>920</posxbu><posybu>820</posybu>
+	</MainNode>
+	<MainNode id="36">
+		<posx>1060</posx><posy>1005</posy>
+		<posxu1>1445</posxu1><posyu1>1005</posyu1>
+		<posxu2>800</posxu2><posyu2>1010</posyu2>
+		<posxbu>995</posxbu><posybu>985</posybu>
+	</MainNode>
+	<MainNode id="37">
+		<posx>1205</posx><posy>840</posy>
+		<posxu1>1560</posxu1><posyu1>840</posyu1>
+		<posxu2>930</posxu2><posyu2>850</posyu2>
+		<posxbu>1110</posxbu><posybu>820</posybu>
+	</MainNode>
+	<MainNode id="38">
+		<posx>1390</posx><posy>1005</posy>
+		<posxu1>1600</posxu1><posyu1>1015</posyu1>
+		<posxu2>1040</posxu2><posyu2>1010</posyu2>
+		<posxbu>1155</posxbu><posybu>965</posybu>
+	</MainNode>
+	<MainNode id="39">
+		<posx>1615</posx><posy>870</posy>
+		<posxu1>1755</posxu1><posyu1>840</posyu1>
+		<posxu2>1180</posxu2><posyu2>840</posyu2>
+		<posxbu>1310</posxbu><posybu>820</posybu>
+	</MainNode>
+	<MainNode id="40">
+		<posx>1790</posx><posy>995</posy>
+		<posxu1>1790</posxu1><posyu1>985</posyu1>
+		<posxu2>1275</posxu2><posyu2>1000</posyu2>
+		<posxbu>1345</posxbu><posybu>960</posybu>
+	</MainNode>
+	
+	
+</bgnodes>

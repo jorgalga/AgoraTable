@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="testAppOF" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\src\Hello\;CMake Files\src\DataManager\;CMake Files\src\GUI\;CMake Files\aes_cmake_modules\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/jorgega/Programming/agoratable/release" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install">
+         <Option working_dir="/home/jorgega/Programming/agoratable/release" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 install" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/local">
+         <Option working_dir="/home/jorgega/Programming/agoratable/release" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 install/local" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/strip">
+         <Option working_dir="/home/jorgega/Programming/agoratable/release" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 install/strip" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="list_install_components">
+         <Option working_dir="/home/jorgega/Programming/agoratable/release" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 list_install_components" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/jorgega/Programming/agoratable/release" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="testAppRelease">
+         <Option output="/home/jorgega/Programming/agoratable/release/bin/testAppRelease" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jorgega/Programming/agoratable/release/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/libs/assimp/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxCinderAnimation/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxFontStash/libs/fontstash/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxFontStash/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxHttpUtils/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxNetwork/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/libs/opencv/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/libs/opencv/include/opencv" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/libs/opencv/include/opencv2" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/ip" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/osc" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/include/vg" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxThreadedImageLoader/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTimer/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxUnicode/libs/utf8cpp/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxUnicode/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxVectorGraphics/libs" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxVectorGraphics/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxXmlSettings/libs" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxXmlSettings/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/assimp/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/kiss/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/3d" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/app" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/communication" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/events" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/gl" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/graphics" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/math" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/sound" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/types" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/utils" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/video" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/poco/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/tess2/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/src" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.6" />
+            <Add directory="/usr/include/c++/4.6/backward" />
+            <Add directory="/usr/include/c++/4.6/x86_64-linux-gnu/." />
+            <Add directory="/usr/include/cairo" />
+            <Add directory="/usr/include/glib-2.0" />
+            <Add directory="/usr/include/gstreamer-0.10" />
+            <Add directory="/usr/include/openssl" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.6/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.6/include-fixed" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/glib-2.0/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/src/Makefile&quot;  VERBOSE=1 testAppRelease" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/src/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/src/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="testAppRelease/fast">
+         <Option output="/home/jorgega/Programming/agoratable/release/bin/testAppRelease" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jorgega/Programming/agoratable/release/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/libs/assimp/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxCinderAnimation/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxFontStash/libs/fontstash/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxFontStash/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxHttpUtils/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxNetwork/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/libs/opencv/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/libs/opencv/include/opencv" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/libs/opencv/include/opencv2" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/ip" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/osc" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/include/vg" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxThreadedImageLoader/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTimer/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxUnicode/libs/utf8cpp/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxUnicode/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxVectorGraphics/libs" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxVectorGraphics/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxXmlSettings/libs" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxXmlSettings/src" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/assimp/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/kiss/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/3d" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/app" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/communication" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/events" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/gl" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/graphics" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/math" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/sound" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/types" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/utils" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/openFrameworks/video" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/poco/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/openframeworks/libs/tess2/include" />
+            <Add directory="/home/jorgega/Programming/agoratable/src" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.6" />
+            <Add directory="/usr/include/c++/4.6/backward" />
+            <Add directory="/usr/include/c++/4.6/x86_64-linux-gnu/." />
+            <Add directory="/usr/include/cairo" />
+            <Add directory="/usr/include/glib-2.0" />
+            <Add directory="/usr/include/gstreamer-0.10" />
+            <Add directory="/usr/include/openssl" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.6/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.6/include-fixed" />
+            <Add directory="/usr/lib/x86_64-linux-gnu/glib-2.0/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/src/Makefile&quot;  VERBOSE=1 testAppRelease/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/src/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jorgega/Programming/agoratable/release/src/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/src/ofxAssimpAnimation.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/src/ofxAssimpMeshHelper.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/src/ofxAssimpModelLoader.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/src/ofxAssimpTexture.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxCinderAnimation/src/CinderMath.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxCinderAnimation/src/Timeline.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxCinderAnimation/src/TimelineItem.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxCinderAnimation/src/Tween.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxFontStash/libs/fontstash/src/fontstash.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxFontStash/libs/fontstash/src/stb_truetype.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxFontStash/src/ofxFontStash.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxBaseGui.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxButton.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxGuiGroup.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxLabel.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxPanel.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxSlider.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxSliderGroup.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxToggle.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxHttpUtils/src/ofxHttpUtils.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxNetwork/src/ofxTCPClient.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxNetwork/src/ofxTCPManager.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxNetwork/src/ofxTCPServer.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxNetwork/src/ofxUDPManager.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvColorImage.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvContourFinder.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvFloatImage.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvHaarFinder.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvImage.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvShortImage.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/ip/posix/NetworkingUtils.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/ip/posix/UdpSocket.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/ip/win32/NetworkingUtilsWin.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/ip/win32/UdpSocketWin.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/osc/OscPrintReceivedElements.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src/ofxOscBundle.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src/ofxOscMessage.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src/ofxOscParameterSync.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src/ofxOscReceiver.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src/ofxOscSender.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shArrays.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shContext.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shExtensions.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shGeometry.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shImage.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shPaint.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shParams.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shPath.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shPipeline.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shVectors.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shVgu.c">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/src/ofxShivaVGRenderer.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/src/simpleVGContext.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/src/simpleVGPath.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxThreadedImageLoader/src/ofPBO.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxThreadedImageLoader/src/ofxThreadedImageLoader.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTimer/src/ofxTimer.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxAlbumPictureView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxAnimationView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxButtonState.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxButtonViewArc.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxButtonViewCircle.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxButtonViewRect.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxCheckListState.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxCinderTimeline.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxCircularMenuView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxEqutEventManager.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxFboSlider.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxFboView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxFontManager.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxImageView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxPBOVideoPlayer.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxPictureView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxProcessBarView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxShaderManager.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxSlideshowViewer.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxSpriteAnimationView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxTextView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxTouchView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxTouchViewArc.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxTouchViewCircle.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxTouchViewRect.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxVideoPlayerView.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxUnicode/src/ofTextConverter.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxUnicode/src/ofUTF8.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxUnicode/src/ofUnicode.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxVectorGraphics/libs/CreEPS.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxVectorGraphics/src/ofxVectorGraphics.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxXmlSettings/libs/tinyxml.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxXmlSettings/libs/tinyxmlerror.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxXmlSettings/libs/tinyxmlparser.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxXmlSettings/src/ofxXmlSettings.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/BGnode.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/DataManager.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/Gesture.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/MediaContent.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/Node.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/TuioThread.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/Htmlstring.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/Infogui.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/TranspButt.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/TuioManager.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/Wall.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/Hello/Hello.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/main.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/testApp.cpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/src/ofxAssimpAnimation.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/src/ofxAssimpMeshHelper.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/src/ofxAssimpModelLoader.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxAssimpModelLoader/src/ofxAssimpTexture.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxCinderAnimation/src/CinderMath.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxCinderAnimation/src/Timeline.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxCinderAnimation/src/TimelineItem.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxCinderAnimation/src/Tween.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxFontStash/libs/fontstash/src/fontstash.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxFontStash/libs/fontstash/src/stb_truetype.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxFontStash/src/ofxFontStash.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxBaseGui.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxButton.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxGuiGroup.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxLabel.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxPanel.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxSlider.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxSliderGroup.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxGui/src/ofxToggle.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxHttpUtils/src/ofxHttpUtils.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxNetwork/src/ofxTCPClient.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxNetwork/src/ofxTCPManager.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxNetwork/src/ofxTCPServer.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxNetwork/src/ofxUDPManager.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvColorImage.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvContourFinder.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvFloatImage.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvGrayscaleImage.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvHaarFinder.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvImage.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOpenCv/src/ofxCvShortImage.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/osc/OscPrintReceivedElements.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src/ofxOscBundle.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src/ofxOscMessage.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src/ofxOscParameterSync.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src/ofxOscReceiver.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxOsc/src/ofxOscSender.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shArrays.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shContext.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shExtensions.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shGeometry.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shImage.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shPaint.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shPath.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/libs/ShivaVG/src/shVectors.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/src/ofxShivaVGRenderer.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/src/simpleVGContext.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxShivaVG/src/simpleVGPath.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxThreadedImageLoader/src/ofPBO.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxThreadedImageLoader/src/ofxThreadedImageLoader.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTimer/src/ofxTimer.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxAlbumPictureView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxAnimationView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxButtonState.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxButtonViewArc.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxButtonViewCircle.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxButtonViewRect.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxCheckListState.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxCinderTimeline.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxCircularMenuView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxEqutEventManager.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxFboSlider.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxFboView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxFontManager.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxImageView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxPBOVideoPlayer.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxPictureView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxProcessBarView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxShaderManager.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxSlideshowViewer.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxSpriteAnimationView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxTextView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxTouchView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxTouchViewArc.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxTouchViewCircle.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxTouchViewRect.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxTouchView/src/ofxVideoPlayerView.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxUnicode/src/ofTextConverter.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxUnicode/src/ofUTF8.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxUnicode/src/ofUnicode.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxVectorGraphics/libs/CreEPS.hpp">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxVectorGraphics/src/ofxVectorGraphics.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxXmlSettings/libs/tinyxml.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/openframeworks/addons/ofxXmlSettings/src/ofxXmlSettings.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/BGnode.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/DataManager.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/Gesture.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/MediaContent.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/Node.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/TuioThread.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/Htmlstring.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/Infogui.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/TranspButt.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/TuioManager.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/Wall.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/Hello/Hello.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/testApp.h">
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/Hello/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\Hello\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/DataManager/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\DataManager\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/src/GUI/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\GUI\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/aes_cmake_modules/OF_include_dirs.cmake">
+          <Option virtualFolder="CMake Files\aes_cmake_modules\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/aes_cmake_modules/OF_libs.cmake">
+          <Option virtualFolder="CMake Files\aes_cmake_modules\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/aes_cmake_modules/OF_srcs_addons.cmake">
+          <Option virtualFolder="CMake Files\aes_cmake_modules\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/aes_cmake_modules/OF_include_addons.cmake">
+          <Option virtualFolder="CMake Files\aes_cmake_modules\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/aes_cmake_modules/OF_libs_addons.cmake">
+          <Option virtualFolder="CMake Files\aes_cmake_modules\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/aes_cmake_modules/FindGlib.cmake">
+          <Option virtualFolder="CMake Files\aes_cmake_modules\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/aes_cmake_modules/FindGStreamer.cmake">
+          <Option virtualFolder="CMake Files\aes_cmake_modules\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/aes_cmake_modules/FindCairo.cmake">
+          <Option virtualFolder="CMake Files\aes_cmake_modules\" />
+      </Unit>
+      <Unit filename="/home/jorgega/Programming/agoratable/aes_cmake_modules/FindOpenSSL.cmake">
+          <Option virtualFolder="CMake Files\aes_cmake_modules\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

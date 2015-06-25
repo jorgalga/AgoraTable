@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session>
+  <id>727</id>
+  <tabletid>abc</tabletid>
+  <qrcodepath><![CDATA[/gesturedb/media/qrcodes/abc.png]]></qrcodepath>
+  <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/abc.png]]></qrcodeurl>
+  <userid>5</userid>
+  <startedat>2014-02-26 16:44:16.15781</startedat>
+  <sentat>2014-02-26 16:53:02.881371</sentat>
+  <finishedat>2014-02-28 12:05:54.745841</finishedat>
+  <languageid>fr</languageid>
+    <gestures>
+      <gesture>
+        <gestureid>18</gestureid>
+        <sequence>1</sequence>
+        <collectedat>2014-02-18 11:32:47.739809</collectedat>
+        <committed>1</committed>
+        <themeid>2</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-18.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-18.png]]></iconsmallurl>
+        <co2impact>0</co2impact>
+        <name><![CDATA[Je calcule la consommation énergétique totale de mon habitat]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>2</gestureid>
+        <sequence>1</sequence>
+        <collectedat>2014-02-13 14:54:36.133149</collectedat>
+        <committed>1</committed>
+        <themeid>2</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-02.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-02.png]]></iconsmallurl>
+        <co2impact>0</co2impact>
+        <name><![CDATA[Je vais au travail ou à l'école à vélo (4 mois par an)]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>3</gestureid>
+        <sequence>2</sequence>
+        <collectedat>2014-02-13 14:55:50.082715</collectedat>
+        <committed>1</committed>
+        <themeid>3</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-03.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-03.png]]></iconsmallurl>
+        <co2impact>0</co2impact>
+        <name><![CDATA[J'achète un vélo électrique et l'utilise pour couvrir plus de distance]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>17</gestureid>
+        <sequence>2</sequence>
+        <collectedat>2014-02-18 11:32:53.791599</collectedat>
+        <committed>1</committed>
+        <themeid>2</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-17.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-17.png]]></iconsmallurl>
+        <co2impact>0</co2impact>
+        <name><![CDATA[J'adapte la température de mes pièces à mes activités]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>16</gestureid>
+        <sequence>3</sequence>
+        <collectedat>2014-02-18 11:33:01.347135</collectedat>
+        <committed>1</committed>
+        <themeid>2</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-16.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-16.png]]></iconsmallurl>
+        <co2impact>0</co2impact>
+        <name><![CDATA[J'installe des économiseurs d'eau]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>7</gestureid>
+        <sequence>4</sequence>
+        <collectedat>2014-02-13 15:01:25.565859</collectedat>
+        <committed>1</committed>
+        <themeid>1</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-07.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-07.png]]></iconsmallurl>
+        <co2impact>0.259</co2impact>
+        <name><![CDATA[Je me forme à l'eco-drive et le pratique]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>4</gestureid>
+        <sequence>5</sequence>
+        <collectedat>2014-02-13 15:41:15.284899</collectedat>
+        <committed>1</committed>
+        <themeid>1</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-04.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-04.png]]></iconsmallurl>
+        <co2impact>0.208</co2impact>
+        <name><![CDATA[J'utilise les transports publics pour mes déplacements (à raison de 100km par mois)]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>25</gestureid>
+        <sequence>6</sequence>
+        <collectedat>2014-02-21 16:16:39.153028</collectedat>
+        <committed>1</committed>
+        <themeid>3</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-25.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-25.png]]></iconsmallurl>
+        <co2impact>0</co2impact>
+        <name><![CDATA[Je regroupe mes appareils électriques sur un multiprise et l'éteins en cas de non-utilisation]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>37</gestureid>
+        <sequence>7</sequence>
+        <collectedat>2014-02-21 16:16:54.158129</collectedat>
+        <committed>0</committed>
+        <themeid>4</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-37.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-37.png]]></iconsmallurl>
+        <co2impact>0</co2impact>
+        <name><![CDATA[Je favorise l'e-banking pour mes transactions et reçois mes relevés bancaires électroniquement]]></name>
+      </gesture>
+    </gestures>
+    <messages>
+      <gesture>
+        <gestureid>4</gestureid>
+        <sequence>1</sequence>
+        <collectedat>2014-02-26 16:44:47.442986</collectedat>
+        <sent>1</sent>
+        <themeid>1</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-04.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-04.png]]></iconsmallurl>
+        <co2impact>0.208</co2impact>
+        <name><![CDATA[J'utilise les transports publics pour mes déplacements (à raison de 100km par mois)]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>5</gestureid>
+        <sequence>2</sequence>
+        <collectedat>2014-02-26 16:44:53.425165</collectedat>
+        <sent>1</sent>
+        <themeid>1</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-05.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-05.png]]></iconsmallurl>
+        <co2impact>1.068</co2impact>
+        <name><![CDATA[J'organise du co-voiturage pour me rendre au travail et mes activités sociales]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>6</gestureid>
+        <sequence>3</sequence>
+        <collectedat>2014-02-26 16:45:01.233883</collectedat>
+        <sent>1</sent>
+        <themeid>1</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-06.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-06.png]]></iconsmallurl>
+        <co2impact>0</co2impact>
+        <name><![CDATA[J'achète un véhicule de classe énergétique A]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>7</gestureid>
+        <sequence>4</sequence>
+        <collectedat>2014-02-26 16:45:06.255096</collectedat>
+        <sent>1</sent>
+        <themeid>1</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-07.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-07.png]]></iconsmallurl>
+        <co2impact>0.259</co2impact>
+        <name><![CDATA[Je me forme à l'eco-drive et le pratique]]></name>
+      </gesture>
+      <gesture>
+        <gestureid>27</gestureid>
+        <sequence>5</sequence>
+        <collectedat>2014-02-26 16:53:44.223385</collectedat>
+        <sent>0</sent>
+        <themeid>3</themeid>
+        <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-27.png]]></iconsmallpath>
+        <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-27.png]]></iconsmallurl>
+        <co2impact>0</co2impact>
+        <name><![CDATA[Je programme mes appareils de lavage pour la nuit]]></name>
+      </gesture>
+    </messages>
+</session>

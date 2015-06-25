@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <languages>
+    <language>
+      <id>de</id>
+      <name><![CDATA[Deutsch]]></name>
+    </language>
+    <language>
+      <id>fr</id>
+      <name><![CDATA[Français]]></name>
+    </language>
+  </languages>
+  <themes>
+    <theme>
+      <id>1</id>
+      <name languageid="de"><![CDATA[Mobilität]]></name>
+      <name languageid="fr"><![CDATA[Mobilité]]></name>
+      <firstcolor>
+        <red>188</red>
+        <green>207</green>
+        <blue>0</blue>
+      </firstcolor>
+      <secondcolor>
+        <red>0</red>
+        <green>155</green>
+        <blue>164</blue>
+      </secondcolor>
+      <gestures>
+        <gesture>
+          <id>1</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/1.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/1.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-01.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-01.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-01.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-01.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-01.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-01.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-01.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-01.png]]></iconxxsmallurl>
+          <co2impact>0.232</co2impact>
+          <achievedpercent>23.00</achievedpercent>
+          <treeimpact>21</treeimpact>
+          <energyimpact>1063</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>15</financialsavings>
+          <savings10years>1813</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>1856000</co2impactbyswiss>
+          <energyimpactbyswiss>8504000000</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Für Strecken unter 2km nehme ich das Fahrrad oder gehe zu Fuß]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je choisis la mobilité douce (marche/vélo) pour les trajets de moins de 2km]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+	<gesture>
+          <id>2</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/2.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/2.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-02.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-02.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-02.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-02.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-02.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-02.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-02.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-02.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[4 Monate im Jahr fahre ich mit dem Fahrrad zur Arbeit oder zur Schule]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je vais au travail ou à l'école à vélo (4 mois par an)]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+	<gesture>
+          <id>3</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/3.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/3.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-03.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-03.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-03.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-03.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-03.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-03.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-03.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-03.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Um Fahrkomfort und -distanz zu erhöhen, steige ich auf ein Elektrofahrrad um]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'achète un vélo électrique et l'utilise pour couvrir plus de distance]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>s
+        <gesture>
+          <id>4</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/4.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/4.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-04.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-04.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-04.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-04.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-04.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-04.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-04.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-04.png]]></iconxxsmallurl>
+          <co2impact>0.208</co2impact>
+          <achievedpercent>21.00</achievedpercent>
+          <treeimpact>19</treeimpact>
+          <energyimpact>668.33</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>14</financialsavings>
+          <savings10years>1739</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>1664000</co2impactbyswiss>
+          <energyimpactbyswiss>5346640000</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Zur täglichen Fortbewegung nutze ich das öffentliche Transportsystem (100 km im Monat)]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'utilise les transports publics pour mes déplacements (à raison de 100km par mois)]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>5</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/5.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/5.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-05.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-05.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-05.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-05.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-05.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-05.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-05.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-05.png]]></iconxxsmallurl>
+          <co2impact>1.068</co2impact>
+          <achievedpercent>107.00</achievedpercent>
+          <treeimpact>97</treeimpact>
+          <energyimpact>4892</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>70</financialsavings>
+          <savings10years>8341</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>8544000</co2impactbyswiss>
+          <energyimpactbyswiss>39136000000</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Um zur Arbeit oder zu Freizeitaktivitäten zu gelangen, organisiere ich eine Carsharing Initiative oder schließe mich einer vorhandenen an.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'organise du co-voiturage pour me rendre au travail et mes activités sociales]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>6</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/6.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/6.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-06.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-06.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-06.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-06.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-06.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-06.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-06.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-06.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Beim Kauf eines Neu- oder eines Gebrauchtwagens achte ich auf die Energieklasse A.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'achète un véhicule de classe énergétique A]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>7</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/7.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/7.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-07.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-07.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-07.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-07.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-07.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-07.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-07.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-07.png]]></iconxxsmallurl>
+          <imagepath><![CDATA[/gesturedb/media/images/eco-drive-fahrkurs_572_381.jpg]]></imagepath>
+          <imageurl><![CDATA[http://192.168.5.138/gesturedb/media/images/eco-drive-fahrkurs_572_381.jpg]]></imageurl>
+          <co2impact>0.259</co2impact>
+          <achievedpercent>26.00</achievedpercent>
+          <treeimpact>24</treeimpact>
+          <energyimpact>1189</energyimpact>
+          <environmentrating>2</environmentrating>
+          <costs>0</costs>
+          <financialsavings>6</financialsavings>
+          <savings10years>721</savings10years>
+          <roitime>0</roitime>
+          <financialrating>2</financialrating>
+          <personaladvantage><![CDATA[Reduced risks of accident; reduced stress level]]></personaladvantage>
+          <communityadvantage><![CDATA[Reduced risks for other traffic participants]]></communityadvantage>
+          <advantagerating>4</advantagerating>
+          <co2impactbyswiss>1450400</co2impactbyswiss>
+          <energyimpactbyswiss>6658400000</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich lerne, mein Auto im Ökomodus zu fahren]]></text>
+            </name>
+            <overview>
+              <text><![CDATA[<p><b>Sicherer, umweltfreundlicher und wirtschaftlicher Fahren durch einen Trainingskurs Eco-Drive®.</b></p>
+<p></p>
+<p><b>Die Wirkung</b></p>
+<p><b>Umwelt ***</b></p>
+<p>24% Beitrag zum 1-Ton-Challenge!</p>
+<p><b>Lebensqualität ****</b></p>
+<p>Stress und Unfallrisiko reduzieren, Lebensqualität gewinnen</p>
+<p><b>Finanzen **</b></p>
+<p>12% Treibstoff sparen, </p>
+<p></p>
+<p><b>Die Investition</b></p>
+<p>Ein Kurs Eco-Drive® dauert 4.5 Stunden und kostet ca. 200 CHF. Die Investition hat sich nach 2 Jahren gelohnt. </p>
+<p>Ausserdem benötigt: Ein dauerhafter Verzicht auf angeberische Raserei...</p>]]></text>
+              <content>
+                <sequence>1</sequence>
+                <mediatype>image</mediatype>
+                <path><![CDATA[/gesturedb/media/images/eco-drive-fahrkurs_572_381.jpg]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+            </overview>
+            <details>
+              <text><![CDATA[<p><b>Das Prinzip</b></p>
+<p>Hohe Geschwindigkeiten bringen keinen relevanten Zeitgewinn! Vorausschauendes, ruhiges und gleichmäßiges Fahren jedoch schon! Mit Eco-Drive® fährt man nicht langsamer, sondern sicherer, umweltfreundlicher und wirtschaftlicher. </p>
+<p></p>
+<p><b>Die Praxis</b></p>
+<p>Vorausschauend, ruhig und gleichmaßig fahren, früh hochschalten und zügig bis auf 2'500 Umdrehungen beschleunigen, im höchstmöglichen Gang fahren und locker im Verkehrsstrom mitschwimmen, dabei den Schwung optimal nutzen, dann sanft abbremsen und spät Herunterschalten.</p>
+]]></text>
+              <content>
+                <sequence>5</sequence>
+                <mediatype>pdf</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/5-tipps-eco-drive.pdf]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>6</sequence>
+                <mediatype>pdf-image</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/5-tipps-eco-drive.jpg]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+            </details>
+            <product>
+              <text><![CDATA[<p>Ein Trainingskurs Eco-Drive® dauert 4.5 Stunden und kostet ca. 200 CHF (für TCS Mitglieder nur 100 CHF).</p>
+<p></p>
+<p>Der Fonds für Verkehrssicherheit belohnt 65-jährige und ältere Teilnehmer mit einem Beitrag von CHF 50.-. </p>
+<p></p>
+<p>Spezielle Eco-Drive® Kurse gibt es auch für Motorradfahrer, Lastkraftfahrer, Baumaschinenfahrer und Neulerner.</p> 
+<p>Es gibt auch eine Eco-Drive® App fürs Smartphone sowie einen Online Kosten-Nutzen-Rechner (siehe Links).</p>]]></text>
+              <content>
+                <sequence>1</sequence>
+                <mediatype>pdf</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/1284469964_iPhoneApp_d.pdf]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>2</sequence>
+                <mediatype>pdf-image</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/1284469964_iPhoneApp_d.jpg]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>10</sequence>
+                <mediatype>video</mediatype>
+                <path><![CDATA[/gesturedb/media/videos/clever-fahren-de.mp4]]></path>
+                <previewpath><![CDATA[/gesturedb/media/videos/clever-fahren-de.png]]></previewpath>
+              </content>
+              <content>
+                <sequence>20</sequence>
+                <mediatype>url</mediatype>
+                <path><![CDATA[http://www.ecodrive.ch/index.php?page=kostennutzenrechner]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+            </product>
+            <provider>
+              <text><![CDATA[<p>Trainingskurse Eco-Drive® gibt es z.B. bei folgendem Anbieter in der Region: </p>
+<p></p>
+<p>TCS-Sektion Freiburg</p>
+<p>Kontaktstelle im Technischen Zentrum</p>
+<p>Route d'Englisberg 2</p>
+<p>1763 Granges-Paccot</p>
+<p>Tel +41 78 788 32 62</p>
+<p>sectionfr@tcs.ch</p>]]></text>
+              <content>
+                <sequence>1</sequence>
+                <mediatype>url</mediatype>
+                <path><![CDATA[http://www.tcs.ch/de/kurse/uebersichtskarte-kurse.php]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>2</sequence>
+                <mediatype>url</mediatype>
+                <path><![CDATA[http://www.ecodrive.ch/index.php?lang=1]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+            </provider>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je me forme à l'eco-drive et le pratique]]></text>
+            </name>
+            <overview>
+              <text><![CDATA[<p><b>ÉCONOMIES (**)</b></p>
+<p>12% de consommation de carburant en mois</p> 
+<p></p>
+<p><b>BIEN-ÊTRE (****)</b></p>
+<p>Plus cool au volant</p>
+<p></p>
+<p><b>ENVIRONNEMENT (**)</b></p>
+<p>Moins de consommation</p>
+<p>de carburant, moins de bruit</p>
+<p>et moins d’accidents</p>]]></text>
+              <content>
+                <sequence>1</sequence>
+                <mediatype>image</mediatype>
+                <path><![CDATA[/gesturedb/media/images/eco-drive-fahrkurs_572_381.jpg]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+            </overview>
+            <details>
+              <text><![CDATA[<p><b>Le principe</b></p>
+<p>L’Eco-Drive est une technique de conduite accessible à tous, qui consiste à:</p>
+<p>· Accélérer franchement</p>
+<p>· Passer rapidement à la vitesse supérieure (éviter de dépasser les 2’500 t/min.)</p>
+<p>· Rétrograder le plus tard possible</p>
+<p>· Rouler avec le rapport le plus élevé possible</p>
+<p>· Eviter les à-coups (anticiper les freinages)</p>
+<p></p>
+<p><b>L'application</b></p>
+<p>L’Eco-Drive s’adresse aux conducteurs de:</p>
+<p>· voitures</p>
+<p>· camions</p>
+<p>· bus</p>
+
+<b>Son prix</b>
+Un cours Eco-Drive coûte environ CHF 200.-]]></text>
+              <content>
+                <sequence>1</sequence>
+                <mediatype>pdf</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/fiche 9 OPA_eco-drive.pdf]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>2</sequence>
+                <mediatype>pdf-image</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/fiche 9 OPA_eco-drive.jpg]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>3</sequence>
+                <mediatype>pdf</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/Fiche 9 Eco-drive.pdf]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>4</sequence>
+                <mediatype>pdf-image</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/Fiche 9 Eco-drive.jpg]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>5</sequence>
+                <mediatype>pdf</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/5-conseils-eco-drive.pdf]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>6</sequence>
+                <mediatype>pdf-image</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/5-conseils-eco-drive.jpg]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+            </details>
+            <product>
+              <content>
+                <sequence>1</sequence>
+                <mediatype>pdf</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/1284469990_iPhoneApp_f.pdf]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>2</sequence>
+                <mediatype>pdf-image</mediatype>
+                <path><![CDATA[/gesturedb/media/pdfs/1284469990_iPhoneApp_f.jpg]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>10</sequence>
+                <mediatype>video</mediatype>
+                <path><![CDATA[/gesturedb/media/videos/clever-fahren-fr.mp4]]></path>
+                <previewpath><![CDATA[/gesturedb/media/videos/clever-fahren-fr.png]]></previewpath>
+              </content>
+              <content>
+                <sequence>20</sequence>
+                <mediatype>url</mediatype>
+                <path><![CDATA[http://www.ecodrive.ch/index.php?page=calculatrice_cout-benefice&lang=2]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+            </product>
+            <provider>
+              <content>
+                <sequence>1</sequence>
+                <mediatype>url</mediatype>
+                <path><![CDATA[http://www.tcs.ch/fr/cours/index-carte-de-cours.php]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+              <content>
+                <sequence>2</sequence>
+                <mediatype>url</mediatype>
+                <path><![CDATA[http://www.ecodrive.ch/index.php?lang=2]]></path>
+                <previewpath><![CDATA[]]></previewpath>
+              </content>
+            </provider>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>8</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/8.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/8.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-08.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-08.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-08.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-08.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-08.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-08.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-08.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-08.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich kaufe Reifen mit hoher Qualität]]></text>
+            </name>
+            <overview>
+              <text><![CDATA[<p>Das ist der Text dazu</p>]]></text>
+              <content>
+                <sequence>1</sequence>
+                <mediatype>video</mediatype>
+                <path><![CDATA[gesturedb/media/videos/Telekinetic Coffee Shop Surprise.mp4]]></path>
+                <previewpath><![CDATA[gesturedb/media/images/test.png]]></previewpath>
+              </content>
+            </overview>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'achète des pneus de qualité]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>9</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/9.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/9.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-09.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-09.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-09.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-09.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-09.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-09.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-09.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-09.png]]></iconxxsmallurl>
+          <co2impact>0.13</co2impact>
+          <achievedpercent>13.00</achievedpercent>
+          <treeimpact>12</treeimpact>
+          <energyimpact>594</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>4</financialsavings>
+          <savings10years>485</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>1040000</co2impactbyswiss>
+          <energyimpactbyswiss>4752000000</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich überprüfe regelmüßig den Reifendruck, um Sprit zu sparen und die Fahrsicherheit zu erhöhen.]]></text>
+            </name>
+            <details>
+              <text><![CDATA[<p><strong>Das Prinzip</strong><br /><br />Niedriger Luftdruck im Reifen f&uuml;hrt im Extremfall zu Reifenplatzer, verringert die Fahrsicherheit und f&uuml;hrt zu erh&ouml;htem Verschlei&szlig; und Kraftstoffverbrauch. Folgen von niedrigem Luftdruck w&auml;ren ungleichm&auml;&szlig;iger Profilabrieb, starke Verformung und Sch&auml;den des Reifens, schlechtere und gef&auml;hrliche Fahreigenschaften vor allem bei h&ouml;heren Kurvengeschwindigkeiten, beeintr&auml;chtigte Haftung des Reifens auf der Stra&szlig;e etc.<br /><br /><br /><strong>Die Praxis</strong><br /><br />Regelm&auml;&szlig;iges Kontrollieren und Korrigieren des Luftdrucks (z.B. jede 2 Wochen) erh&ouml;ht die Sicherheit beim Fahren und die Lebensdauer des Reifens.<br /><br />Wichtig: Kontrolle des Reifendrucks und Reservereifen nur beim kalten, nicht warm gefahrenen Reifen.</p>]]></text>
+            </details>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je vérifie régulièrement la pression de mes pneus]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>10</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/10.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/10.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-10.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-10.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-10.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-10.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-10.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-10.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-10.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-10.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Wenn ich fliege, entrichte ich einen zusätzlichen Beitrag, um den CO2 Ausstoß zu kompensieren.]]></text>
+            </name>
+            <details>
+              <text><![CDATA[<p><strong>Das Prinzip</strong><br /><br />Kompensation von Treibhausgasemissionen kann zur Emissionsminderung an einem anderen Ort f&uuml;hren, z.B. durch die gezielte Investition in Klimaschutzprojekte. Wenn die Reduktionsma&szlig;nahmen in derselben H&ouml;he wie die freigesetzten Emissionen sind, kann von einer Klimaneutralit&auml;t bzw. neutralen Bilanz gesprochen werden.<br /><br /><br /><strong>Die Praxis</strong><br /><br />Es gibt verschiedene Dienstleister f&uuml;r freiwillige Kompensationsma&szlig;nahmen, die sich in ihrem Ziel unterscheiden, einige legen mehr Wert auf Bewusstseinsbildung, andere zielen auf die Erschlie&szlig;ung eines neuen Marktes ab.</p>]]></text>
+            </details>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'ajoute volontairement une compensation CO2 pour mon transport aérien]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+      </gestures>
+    </theme>
+    <theme>
+      <id>2</id>
+      <name languageid="de"><![CDATA[Wohnen]]></name>
+      <name languageid="fr"><![CDATA[Habitat]]></name>
+      <firstcolor>
+        <red>243</red>
+        <green>146</green>
+        <blue>0</blue>
+      </firstcolor>
+      <secondcolor>
+        <red>132</red>
+        <green>75</green>
+        <blue>50</blue>
+      </secondcolor>
+      <gestures>
+        
+        <gesture>
+          <id>11</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/11.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/11.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-11.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-11.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-11.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-11.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-11.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-11.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-11.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-11.png]]></iconxxsmallurl>
+          <co2impact>0.818</co2impact>
+          <achievedpercent>82.00</achievedpercent>
+          <treeimpact>74</treeimpact>
+          <energyimpact>3991.11</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>6544000</co2impactbyswiss>
+          <energyimpactbyswiss>31928880000</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Beim Bau oder der Renovierung meines Wohnraumes richte ich mich nach dem Niedrigenergiestandard.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je choisis le standard Minergie pour la construction ou la rénovation de mon habitat]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>12</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/12.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/12.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-12.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-12.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-12.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-12.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-12.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-12.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-12.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-12.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Bei Investitionen in Wände, Dach und Boden bevorzuge ich moderne Isolationsverfahren.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je choisis une isolation innovante pour les murs, plancher et toit de mon habitat]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>13</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/13.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/13.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-13.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-13.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-13.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-13.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-13.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-13.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-13.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-13.png]]></iconxxsmallurl>
+          <co2impact>0.07</co2impact>
+          <achievedpercent>7.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>560000</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Zum Heizen und zur Warmwasseraufbereitung bevorzuge ich erneuerbare Energie.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'utilise une source d'énergie renouvelable pour le chauffage.]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>14</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/14.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/14.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-14.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-14.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-14.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-14.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-14.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-14.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-14.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-14.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich investiere in dreifach verglaste Fenster]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'installe des vitres triple-vitrage]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>15</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/15.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/15.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-15.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-15.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-15.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-15.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-15.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-15.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-15.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-15.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich entkalke regelmäßig meinen Durchlauferhitzer]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je détartre régulièrement mon chauffe-eau]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>16</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/16.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/16.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-16.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-16.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-16.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-16.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-16.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-16.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-16.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-16.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>3</environmentrating>
+          <costs>25</costs>
+          <financialsavings>41</financialsavings>
+          <savings10years>4900</savings10years>
+          <roitime>1</roitime>
+          <financialrating>4</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>3</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich installiere Wasserspareinsätze]]></text>
+            </name>
+            <overview>
+              <text><![CDATA[<p>Effektiv Wasser sparen und gleichzeitig einen angenehmen Perleffekt erleben</p>
+<p></p>
+<p><b>Die Wirkung</b></p>
+<p><b>Umwelt ***</b></p>
+<p>1'300 Liter Heizöl und 68'000 Liter Wasser sparen (CONVERT TO %)</p>
+<p><b>Lebensqualität **</b></p>
+<p>Ein neues Wassererlebnis: luftiger und leichter </p>
+<p><b>Finanzen ****</b></p>
+<p>CHF 490,- sparen pro Jahr und Haushalt (4 Personen) </p>
+<p></p>
+<p><b>Die Investition +</b></p>
+<p>Zwischen CHF 10,- und 40,- je nach Ausführung (UPDATE)</p>]]></text>
+            </overview>
+            <details>
+              <text><![CDATA[<p><b>Das Prinzip</b></p>
+<p>Wassersparer reduzieren den Wasserdurchfluss. Das reduziert den Wasser- und somit den Energieverbrauch. Um darüber hinaus den bestmöglichen Komfort zu ermöglichen, wird gleichzeitig dem Wasser Luft zugemischt. Durch ein fein abgestimmtes Wasser-Luft-Verhältnis und eine zusätzliche Beschleunigung des Wassers ergibt sich ein voller und angenehm perliger Wasserstrahl. Durch die zusätzliche Beschleunigung verringert sich zudem die Verkalkungsgefahr und sorgt so für eine längere Lebensdauer des Duschkopfes.</p>
+<p></p>
+<p><b>Die Praxis</b></p>
+<p>Für die Dusche:  </p>
+<p>1. Möglichkeit: Alten Duschkopf austauschen gegen Sparduschkopf (gibt es mit härterem, weicherem oder verstellbarem Wasserstrahl)</p>
+<p>2. Möglichkeit: Durchflussreduzierer einsetzen zwischen Armatur und Duschschlauch (und alten Duschkopf beibehalten)</p>
+<p>Für den Wasserhahn: </p>
+<p>Herkömmlichen Strahlregler abschrauben und durch Perlstrahler ersetzen (Modell je nach Gewindeform und Wasserdruck)</p>
+<p>Für die Toilette:</p>
+<p>1. Beibehalt des alten Spülkastens: Wasserstop kaufen und einhängen - fertig! </p>
+<p>2. Neuanschaffung eines modernen Spülsystems mit Zweimengenspülung (grosse Taste / kleine Taste) oder Spül-Stopp-Funktion (an / aus mit gleicher Taste)</p>]]></text>
+            </details>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'installe des économiseurs d'eau]]></text>
+            </name>
+            <overview>
+              <text><![CDATA[<p><b>ÉCONOMIES (****)</b></p>
+<p>CHF 490.- / an pour 1 famille de 4 personnes</p>
+<p></p>
+<p><b>BIEN-ÊTRE (***)</b></p>
+<p>Sensation d’eau aérée plus mouillante et légère</p>
+<p></p>
+<p><b>ENVIRONNEMENT (***)</b></p>
+<p>1'300 litres de fioul et 68'000 litres d'eau économisés</p>]]></text>
+            </overview>
+            <details>
+              <text><![CDATA[<p><b>Le principe</b></p>
+<p>L'économiseur d'eau laisse passer moins d’eau mais plus d’air. Il permet de réduire la consommation d'eau, donc d’énergie. Par contre, il augmente l’effet mouillant (appelé «pouvoir mouillant») et garantit ainsi le confort d’utilisation.</p>
+<p></p>
+<p><b>L'application</b></p>
+<p>L'économiseur d'eau existe pour</p>
+<p>· les robinets</p>
+<p>· la douche</p>
+<p>· les toilettes</p>
+<p></p>
+<p><b>Son prix</b></p>
+<p>Varie de CHF 10.- à 40.- l’économiseur selon le type</p>]]></text>
+            </details>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>17</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/17.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/17.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-17.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-17.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-17.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-17.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-17.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-17.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-17.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-17.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich passe die Raumtemperatur den jeweiligen Bedürfnissen an.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'adapte la température de mes pièces à mes activités]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>18</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/18.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/18.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-18.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-18.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-18.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-18.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-18.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-18.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-18.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-18.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich errechne den Energiebedarf meines Wohnraums, den ich tatsächlich benötige.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je calcule la consommation énergétique totale de mon habitat]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>19</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/19.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/19.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-19.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-19.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-19.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-19.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-19.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-19.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-19.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-19.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich werde ein Recycling-Experte.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'apprends à devenir un expert du recyclage]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>20</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/20.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/20.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-20.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-20.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-20.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-20.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-20.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-20.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-20.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-20.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich kompostiere unsere Gemüseabfälle]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je fais du compostage/lombricompostage avec mes déchets végétaux]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+      </gestures>
+    </theme>
+    <theme>
+      <id>3</id>
+      <name languageid="de"><![CDATA[Energie]]></name>
+      <name languageid="fr"><![CDATA[Energie]]></name>
+      <firstcolor>
+        <red>255</red>
+        <green>205</green>
+        <blue>28</blue>
+      </firstcolor>
+      <secondcolor>
+        <red>237</red>
+        <green>6</green>
+        <blue>19</blue>
+      </secondcolor>
+      <gestures>
+        
+        <gesture>
+          <id>21</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/21.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/21.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-21.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-21.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-21.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-21.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-21.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-21.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-21.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-21.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Wenn ich neue Haushaltsgeräte oder ander elektronische Geräte kaufe, achte ich auf die Energieklasse A+++.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'achète des appareils électriques et ménagers de classe énergétique A+++]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>22</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/22.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/22.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-22.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-22.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-22.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-22.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-22.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-22.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-22.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-22.png]]></iconxxsmallurl>
+          <co2impact>0.18</co2impact>
+          <achievedpercent>18.00</achievedpercent>
+          <treeimpact>16</treeimpact>
+          <energyimpact>1002</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>1</financialsavings>
+          <savings10years>120</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>1440000</co2impactbyswiss>
+          <energyimpactbyswiss>8016000000</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Zur Beleuchtung nutze ich Lichtquellen mit niedrigem Energiebedarf (z.B. LED)]]></text>
+            </name>
+            <overview>
+              <text><![CDATA[<p><b>Lichtemittierende Dioden (LED) revolutionieren die Beleuchtung: Langlebig, lichtstark und extrem sparsam.</b></p>
+<p></p>
+<p><b>Die Wirkung</b></p>
+<p><b>Umwelt ***</b></p>
+<p>5% Beitrag zum 1-Ton-Challenge! (VALIDATE)</p>
+<p><b>Lebensqualität ***</b></p>
+<p>Ein neues Beleuchtungskonzept wird möglich - ganz den individuellen Bedürfnissen angepasst. </p>
+<p><b>Finanzen ****</b></p>
+<p>78 % Kostenersparnis gegenüber Glühbirnen </p>
+<p></p>
+<p><b>Die Investition ++</b></p>
+<p>Ca. CHF 10,- - 20,- je nach Modell. </p>]]></text>
+            </overview>
+            <details>
+              <text><![CDATA[<p><b>Das Prinzip</b></p>
+<p>Eine lichtemittierende Diode (LED) ist ein kleines elektronischen Bauteil, das Licht aussendet, wenn es an elektrischen Strom angeschlossen wird. </p>
+<p></p>
+<p>LEDs revolutionieren die Beleuchtung. Sie sind hauptsächlich in Kolben integriert, die wie herkömmliche Glühlampen aussehen, aber eine schwächere Leistung aufweisen (0,5-18 W), und deren Lichtqualität (Farbtemperatur und IRC) je nach Modell stark variieren kann. In der Birne sitzt die Elektronik, die die Leuchtdioden versorgt. Ihre Stromersparnis kann im Vergleich zu herkömmlichen Leuchtmitteln (Glühbirnen, Halogenstrahlern, Energiesparlampen, Leuchtstoffröhren etc.) bis zu 90% betragen.</p>
+<p></p>
+<p><b>Die Praxis</b></p>
+<p>Bei einem niedrigen Energiebedarf (die meisten um 3,5 Volt) kann Ihre Lichtausbeute sehr hoch und ihre Lebensdauer sehr lang sein. Aufgrund ihrer Kälteresistenz findet man sie auch im Außenbereich und überall, wo auf wenig Raum und mit wenig Energie ein ausdauernder Lichtbetrieb benötigt wird: Strassensignalisationen, Fahrzeugscheinwerfer, Garten- und Fassadenbeleuchtungen, Dekorationen von Läden und öffentlichen Plätzen, Weihnachtsgirlanden, auf Booten, in Wohnwagen, in Notausgängen, bei Taschenlampen etc. </p>
+<p></p>
+<p>Es gibt Modelle mit Schraubsockel, die herkömmliche Glühlampen (bis 75 W) ersetzen können, daneben existieren auch kleine Spotlichter für Leuchten mit 230 Volt und 12/24 Volt (Niederstrom). Einige Modelle haben einen Dimmer. Die Zukunft wird wohl über den Raum verteilten Beleuchtungsformen gehören, die eben nicht wie bei herkömmlichen Glühbirnen auf einer einzigen Lichtquelle beruht. </p>
+<p></p>
+<p>Alte LEDs gehören ins Recycling.</p>]]></text>
+            </details>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'utilise des lampes à basse consommation pour les besoins d'éclairage]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>23</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/23.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/23.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-23.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-23.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-23.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-23.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-23.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-23.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-23.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-23.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich nutze nur wiederaufladbare Batterien und ein Ladegerät]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'utilise uniquement des batteries rechargeables et un rechargeur]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>24</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/24.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/24.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-24.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-24.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-24.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-24.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-24.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-24.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-24.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-24.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich lösche das Licht beim Verlassen eines Raumes]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'éteins la lumière en quittant les pièces]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>25</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/25.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/25.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-25.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-25.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-25.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-25.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-25.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-25.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-25.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-25.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Für mehrere Elektrogeräte benutze ich eine Mehrfachsteckdose, die ich einfach ausschalten kann.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je regroupe mes appareils électriques sur un multiprise et l'éteins en cas de non-utilisation]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>26</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/26.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/26.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-26.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-26.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-26.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-26.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-26.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-26.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-26.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-26.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich produziere (beispielsweise mit Grätzelzellen oder Solarpanelen) meine Energie selber]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'installe des kits d'energie]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>27</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/27.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/27.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-27.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-27.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-27.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-27.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-27.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-27.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-27.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-27.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich wasche nachts, um das Stromnetz zu entlasten.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je programme mes appareils de lavage pour la nuit]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>28</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/28.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/28.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-28.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-28.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-28.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-28.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-28.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-28.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-28.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-28.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich wasche mit niedriger Temperatur und trockne an der Luft]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je privilégie la lessive à basse température et le séchage naturel]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>29</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/29.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/29.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-29.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-29.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-29.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-29.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-29.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-29.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-29.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-29.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich taue meinen Gefrierschrank regelmäßig ab]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je dégèle régulièrement mon congélateur]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>30</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/30.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/30.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-30.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-30.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-30.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-30.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-30.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-30.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-30.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-30.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich wechsle zu einem Ökostromanbieter]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je souscris à l'achat de courant vert]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+      </gestures>
+    </theme>
+    <theme>
+      <id>4</id>
+      <name languageid="de"><![CDATA[Konsum]]></name>
+      <name languageid="fr"><![CDATA[Consommation]]></name>
+      <firstcolor>
+        <red>177</red>
+        <green>65</green>
+        <blue>145</blue>
+      </firstcolor>
+      <secondcolor>
+        <red>96</red>
+        <green>36</green>
+        <blue>131</blue>
+      </secondcolor>
+      <gestures>
+        <gesture>
+          <id>31</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/31.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/31.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-31.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-31.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-31.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-31.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-31.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-31.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-31.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-31.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich bevorzuge regionale und saisonale Produkte]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'achète des produits locaux et de saison]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>32</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/32.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/32.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-32.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-32.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-32.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-32.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-32.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-32.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-32.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-32.png]]></iconxxsmallurl>
+          <co2impact>0.364</co2impact>
+          <achievedpercent>36.00</achievedpercent>
+          <treeimpact>33</treeimpact>
+          <energyimpact>362.5</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>2912000</co2impactbyswiss>
+          <energyimpactbyswiss>2900000000</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[So oft es geht orientiere ich mich an vegetarischer oder veganer Küche.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je mange végétarien aussi souvent que possible]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>33</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/33.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/33.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-33.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-33.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-33.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-33.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-33.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-33.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-33.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-33.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Beim täglichen Essen vermeide ich Abfall.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je minimise le gaspillage des déchets alimentaires]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>34</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/34.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/34.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-34.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-34.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-34.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-34.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-34.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-34.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-34.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-34.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich koche Essen in einem Dampfkochtopf]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je fais cuire mes aliments dans un autocuiseur]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>35</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/35.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/35.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-35.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-35.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-35.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-35.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-35.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-35.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-35.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-35.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich kaufe langlebige und qualitativ hochwertige Produkte]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'achète des produis durables et de qualité]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>36</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/36.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/36.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-36.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-36.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-36.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-36.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-36.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-36.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-36.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-36.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich nutze langlebige Einkaufstaschen]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[J'utilise un cabas pour mes achats]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>37</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/37.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/37.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-37.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-37.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-37.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-37.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-37.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-37.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-37.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-37.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich bevorzuge E-banking und bekomme meine Auszüge elektronisch]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je favorise l'e-banking pour mes transactions et reçois mes relevés bancaires électroniquement]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>38</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/38.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/38.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-38.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-38.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-38.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-38.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-38.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-38.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-38.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-38.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Ich fülle meine Druckerpatronen auf, anstatt neue zu kaufen]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je recharge mes cartouches d'encre plutôt que d'en acheter de nouvelles]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>39</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/39.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/39.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-39.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-39.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-39.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-39.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-39.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-39.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-39.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-39.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Wann immer es geht, repariere ich, anstatt neu zu kaufen.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je répare dans la mesure du possible avant d'acheter du neuf]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+        <gesture>
+          <id>40</id>
+          <qrcodepath><![CDATA[/gesturedb/media/qrcodes/40.png]]></qrcodepath>
+          <qrcodeurl><![CDATA[http://192.168.5.138/gesturedb/media/qrcodes/40.png]]></qrcodeurl>
+          <iconpath><![CDATA[/gesturedb/media/icons/203x203/icon-40.png]]></iconpath>
+          <iconurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/203x203/icon-40.png]]></iconurl>
+          <iconsmallpath><![CDATA[/gesturedb/media/icons/130x130/icon-40.png]]></iconsmallpath>
+          <iconsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/130x130/icon-40.png]]></iconsmallurl>
+          <iconxsmallpath><![CDATA[/gesturedb/media/icons/66x66/icon-40.png]]></iconxsmallpath>
+          <iconxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/66x66/icon-40.png]]></iconxsmallurl>
+          <iconxxsmallpath><![CDATA[/gesturedb/media/icons/42x42/Agora_Icons_42x42px-40.png]]></iconxxsmallpath>
+          <iconxxsmallurl><![CDATA[http://192.168.5.138/gesturedb/media/icons/42x42/Agora_Icons_42x42px-40.png]]></iconxxsmallurl>
+          <co2impact>0</co2impact>
+          <achievedpercent>0.00</achievedpercent>
+          <treeimpact>0</treeimpact>
+          <energyimpact>0</energyimpact>
+          <environmentrating>5</environmentrating>
+          <costs>0</costs>
+          <financialsavings>0</financialsavings>
+          <savings10years>0</savings10years>
+          <roitime>0</roitime>
+          <financialrating>5</financialrating>
+          <personaladvantage><![CDATA[]]></personaladvantage>
+          <communityadvantage><![CDATA[]]></communityadvantage>
+          <advantagerating>5</advantagerating>
+          <co2impactbyswiss>0</co2impactbyswiss>
+          <energyimpactbyswiss>0</energyimpactbyswiss>
+          <gesturecontent languageid="de">
+            <name>
+              <text><![CDATA[Mein altes Smartphone gebe ich ins Recycling oder verschenke es.]]></text>
+            </name>
+          </gesturecontent>
+          <gesturecontent languageid="fr">
+            <name>
+              <text><![CDATA[Je recycle ou fais don de mon smartphone quand je dois le changer]]></text>
+            </name>
+          </gesturecontent>
+        </gesture>
+      </gestures>
+    </theme>
+  </themes>
+</data>

@@ -1,0 +1,4 @@
+<shadersettings>
+<shader alias="shaderVertical" path_vert="slideVertical.vert" path_frag="slideVertical.frag" />
+<shader alias="shaderHorizontal" path_vert="slideHorizontal.vert" path_frag="slideHorizontal.frag" />
+</shadersettings>

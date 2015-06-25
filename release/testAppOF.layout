@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="all" />
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxAlbumPictureView.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="9" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxButtonViewRect.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="5552" topLine="0" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxButtonViewRect.h" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxFboSlider.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="815" topLine="0" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxFboSlider.h" open="0" top="0" tabpos="0">
+		<Cursor position="1768" topLine="29" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxFboView.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="523" topLine="1" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxFboView.h" open="0" top="0" tabpos="0">
+		<Cursor position="773" topLine="10" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxPBOVideoPlayer.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2410" topLine="100" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxPBOVideoPlayer.h" open="0" top="0" tabpos="3">
+		<Cursor position="491" topLine="0" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxPictureView.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="20" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxSlideshowViewer.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1267" topLine="0" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxSlideshowViewer.h" open="0" top="0" tabpos="0">
+		<Cursor position="1411" topLine="9" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxTextView.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1080" topLine="0" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxTextView.h" open="0" top="0" tabpos="0">
+		<Cursor position="2358" topLine="22" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxTouchView.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="9498" topLine="269" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxTouchView.h" open="0" top="0" tabpos="9">
+		<Cursor position="2918" topLine="65" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxTouchViewRect.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="489" topLine="17" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxTouchViewRect.h" open="0" top="0" tabpos="0">
+		<Cursor position="673" topLine="18" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxVideoPlayerView.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="4646" topLine="134" />
+	</File>
+	<File name="../openframeworks/addons/ofxTouchView/src/ofxVideoPlayerView.h" open="0" top="0" tabpos="0">
+		<Cursor position="1025" topLine="12" />
+	</File>
+	<File name="../src/DataManager/BGnode.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1346" topLine="9" />
+	</File>
+	<File name="../src/DataManager/BGnode.h" open="0" top="0" tabpos="9">
+		<Cursor position="388" topLine="6" />
+	</File>
+	<File name="../src/DataManager/DataManager.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="8893" topLine="283" />
+	</File>
+	<File name="../src/DataManager/DataManager.h" open="0" top="0" tabpos="8">
+		<Cursor position="667" topLine="62" />
+	</File>
+	<File name="../src/DataManager/Gesture.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="11990" topLine="465" />
+	</File>
+	<File name="../src/DataManager/Gesture.h" open="0" top="0" tabpos="11">
+		<Cursor position="3343" topLine="88" />
+	</File>
+	<File name="../src/DataManager/MediaContent.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="602" topLine="0" />
+	</File>
+	<File name="../src/DataManager/MediaContent.h" open="0" top="0" tabpos="11">
+		<Cursor position="457" topLine="0" />
+	</File>
+	<File name="../src/DataManager/Node.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="16652" topLine="422" />
+	</File>
+	<File name="../src/DataManager/Node.h" open="1" top="0" tabpos="3">
+		<Cursor position="3262" topLine="139" />
+	</File>
+	<File name="../src/DataManager/TuioThread.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../src/DataManager/TuioThread.h" open="0" top="0" tabpos="8">
+		<Cursor position="1" topLine="0" />
+	</File>
+	<File name="../src/GUI/Htmlstring.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="54" topLine="0" />
+	</File>
+	<File name="../src/GUI/Htmlstring.h" open="1" top="0" tabpos="8">
+		<Cursor position="346" topLine="0" />
+	</File>
+	<File name="../src/GUI/Infogui.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="13350" topLine="117" />
+	</File>
+	<File name="../src/GUI/Infogui.h" open="0" top="0" tabpos="6">
+		<Cursor position="956" topLine="27" />
+	</File>
+	<File name="../src/GUI/TranspButt.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="659" topLine="17" />
+	</File>
+	<File name="../src/GUI/TranspButt.h" open="0" top="0" tabpos="0">
+		<Cursor position="362" topLine="0" />
+	</File>
+	<File name="../src/GUI/TuioManager.h" open="0" top="0" tabpos="0">
+		<Cursor position="358" topLine="0" />
+	</File>
+	<File name="../src/GUI/Wall.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="25201" topLine="565" />
+	</File>
+	<File name="../src/GUI/Wall.h" open="1" top="0" tabpos="1">
+		<Cursor position="2255" topLine="81" />
+	</File>
+	<File name="../src/main.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="497" topLine="0" />
+	</File>
+	<File name="../src/testApp.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="6949" topLine="158" />
+	</File>
+	<File name="../src/testApp.h" open="0" top="0" tabpos="3">
+		<Cursor position="1583" topLine="83" />
+	</File>
+</CodeBlocks_layout_file>

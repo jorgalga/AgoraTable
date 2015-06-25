@@ -1,0 +1,108 @@
+<settings>
+	<databaseIP>http://192.168.5.172/</databaseIP>
+	<databaseURL>http://192.168.5.172/gesturedb/request.php?cmd=getData</databaseURL>
+<systempath>/home/jorgega/Programming/agoratable/release/bin/data</systempath>
+	<!-- Options: Mobilitat, Habitat, Energy, Consumption-->
+	<category>Mobilitat</category>
+	<Mobilitat>images/bg/bg-mobility.png</Mobilitat>
+	<Habitat>images/bg/bg-habitat.png</Habitat>
+	<Energy>images/bg/bg-energy.png</Energy>
+	<Consumption>images/bg/bg-consumption.png</Consumption>
+	
+	<!-- Num Main Nodes-->	
+	<numNodes>20</numNodes>
+	
+	<!-- Main Node0-->
+	<MainNode id="0">
+		<posx>10</posx>
+		<posy>195</posy>
+	</MainNode>
+	<!-- Main Node1-->
+	<MainNode id="1">
+		<posx>10</posx>
+		<posy>295</posy>
+	</MainNode>
+	<!-- Main Node2-->
+	<MainNode id="2">
+		<posx>10</posx>
+		<posy>395</posy>
+	</MainNode>
+	<!-- Main Node3-->
+	<MainNode id="3">
+		<posx>110</posx>
+		<posy>145</posy>
+	</MainNode>
+	<!-- Main Node4-->
+	<MainNode id="4">
+		<posx>110</posx>
+		<posy>245</posy>
+	</MainNode>
+	<!-- Main Node5-->
+	<MainNode id="5">
+		<posx>110</posx>
+		<posy>345</posy>
+	</MainNode>
+	<!-- Main Node6-->
+	<MainNode id="6">
+		<posx>110</posx>
+		<posy>445</posy>
+	</MainNode>
+	<!-- Main Node7-->
+	<MainNode id="7">
+		<posx>210</posx>
+		<posy>195</posy>
+	</MainNode>
+	<!-- Main Node8-->
+	<MainNode id="8">
+		<posx>210</posx>
+		<posy>295</posy>
+	</MainNode>
+	<!-- Main Node9-->
+	<MainNode id="9">
+		<posx>210</posx>
+		<posy>395</posy>
+	</MainNode>
+	<!-- Turned Main Nodes-->
+	<MainNode id="10">
+		<posx>1750</posx>
+		<posy>850</posy>
+	</MainNode>
+	<MainNode id="11">
+		<posx>1850</posx>
+		<posy>550</posy>
+	</MainNode>
+	<MainNode id="12">
+		<posx>1745</posx>
+		<posy>320</posy>
+	</MainNode>
+	<MainNode id="13">
+		<posx>1600</posx>
+		<posy>170</posy>
+	</MainNode>
+	<MainNode id="14">
+		<posx>1565</posx>
+		<posy>760</posy>
+	</MainNode>
+	<MainNode id="15">
+		<posx>1645</posx>
+		<posy>480</posy>
+	</MainNode>
+	<MainNode id="16">
+		<posx>1600</posx>
+		<posy>320</posy>
+	</MainNode>
+	<MainNode id="17">
+		<posx>1430</posx>
+		<posy>415</posy>
+	</MainNode>
+	<MainNode id="18">
+		<posx>1440</posx>
+		<posy>620</posy>
+	</MainNode>
+	<MainNode id="19">
+		<posx>1410</posx>
+		<posy>875</posy>
+	</MainNode>
+	
+</settings>
+

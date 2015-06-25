@@ -1,0 +1,21 @@
+<fontsettings>
+<font alias="title" path="fonts/SignaPro-Bold.ttf" size="50"/>
+<font alias="year" path="fonts/SignaPro-Bold.ttf" size="30"/> 
+<font alias="epoque" path="fonts/SignaPro-Book.ttf" size="30"/> 
+<font alias="image_text_big" path="fonts/SignaPro-Book.ttf" size="33"/> 
+<font alias="image_text_small" path="fonts/SignaPro-Book.ttf" size="22"/> 
+<font alias="image_credit_big" path="fonts/SignaPro-LightIta.ttf" size="33"/>
+<font alias="image_credit_small" path="fonts/SignaPro-LightIta.ttf" size="22"/>
+<font alias="video_description_big" path="fonts/SignaPro-Book.ttf" size="28"/> 
+<font alias="video_description_small" path="fonts/SignaPro-Book.ttf" size="22"/> 
+<font alias="video_credit_big" path="fonts/SignaPro-LightIta.ttf" size="23"/> 
+<font alias="video_credit_small" path="fonts/SignaPro-LightIta.ttf" size="22"/> 
+<font alias="citation_text_big" path="fonts/SignaPro-LightIta.ttf" size="72"/> 
+<font alias="citation_text_small" path="fonts/SignaPro-LightIta.ttf" size="48"/> 
+<font alias="citation_ref_big" path="fonts/SignaPro-Book.ttf" size="33"/> 
+<font alias="citation_ref_small" path="fonts/SignaPro-Book.ttf" size="22"/> 
+<font alias="legend_categories" path="fonts/SignaPro-Book.ttf" size="22"/> 
+<font alias="legend_categories_italic" path="fonts/SignaPro-BookIta.ttf" size="22"/> 
+<font alias="teaser_text" path="fonts/SignaPro-BookIta.ttf" size="100"/> 
+<font alias="teaser_ref" path="fonts/SignaPro-BookIta.ttf" size="45"/> 
+</fontsettings>
